@@ -1,0 +1,16 @@
+{
+  "tecnica": "baseline_classe_majoritaria",
+  "classe_codigo": "DummyClassifier",
+  "acuracia_treino": 0.34447194719471946,
+  "acuracia_validacao": 0.3448844884488449,
+  "acuracia_cv_media": null,
+  "acuracia_cv_dp": null,
+  "tempo_treino_s": 0.0016889572143554688,
+  "hardware": "CPU local",
+  "semente": 42,
+  "hiperparametros": {
+    "strategy": "most_frequent"
+  },
+  "kaggle_publico": null,
+  "data_submissao": null
+}
